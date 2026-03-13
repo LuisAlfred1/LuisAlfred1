@@ -10,9 +10,9 @@ Soy estudiante de ingeniería apasionado por el desarrollo web. Actualmente enfo
 ## ⭐ GitHub Stats
 <div style="display:flex; gap:16px; align-items:center;">
 
-  <img src="https://streak-stats.demolab.com?user=LuisAlfred1&theme=github-dark" />
+  <img height="180" src="https://streak-stats.demolab.com?user=LuisAlfred1&theme=github-dark" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlfred1&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlfred1&layout=compact" />
 
 </div>
 
