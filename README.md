@@ -3,7 +3,7 @@
 
 Soy estudiante de ingeniería apasionado por el desarrollo web. Actualmente enfocado en construir soluciones modernas con React y fortalecer mis bases técnicas bajo una mentalidad de mejora constante.
 
-## Sobre mi 
+## ✍🏽 Sobre mi 
 - Estudiante de Ingeniería en Sistemas en la Universidad San Pablo de Guatemala
 
 - Apasionado por la tecnología y el desarrollo web.
@@ -27,7 +27,7 @@ Soy estudiante de ingeniería apasionado por el desarrollo web. Actualmente enfo
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".NET" title=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt=".NET" title=".NET"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" title="C#"/>
 &nbsp;&nbsp;&nbsp;
@@ -42,5 +42,6 @@ Soy estudiante de ingeniería apasionado por el desarrollo web. Actualmente enfo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="SQL Server" title="SQL Server"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" title="Bash"/>
 
 </div>
