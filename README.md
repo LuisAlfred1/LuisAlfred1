@@ -4,9 +4,9 @@
 Soy estudiante de ingeniería apasionado por el desarrollo web. Actualmente enfocado en construir soluciones modernas con React y fortalecer mis bases técnicas bajo una mentalidad de mejora constante.
 
 ## ✍🏽 Sobre mi 
-- Estudiante de Ingeniería en Sistemas en la Universidad San Pablo de Guatemala
+-- Estudiante de Ingeniería en Sistemas en la Universidad San Pablo de Guatemala
 
-- Apasionado por la tecnología y el desarrollo web.
+-- Apasionado por la tecnología y el desarrollo web.
 ## ⭐ GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=LuisAlfred1&theme=github-dark)](https://git.io/streak-stats)
 
@@ -26,6 +26,8 @@ Soy estudiante de ingeniería apasionado por el desarrollo web. Actualmente enfo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="next" title="next"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap" title="bootstrap"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js"/>
 &nbsp;&nbsp;&nbsp;
