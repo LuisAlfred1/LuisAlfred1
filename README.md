@@ -8,7 +8,7 @@ Soy estudiante de ingeniería apasionado por el desarrollo web. Actualmente enfo
 
 👨🏽‍💻 Apasionado por la tecnología y el desarrollo web.
 ## ⭐ GitHub Stats
-<div style="display:flex; gap:16px; align-items:center;">
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
 
   <img height="180" src="https://streak-stats.demolab.com?user=LuisAlfred1&theme=github-dark" />
 
