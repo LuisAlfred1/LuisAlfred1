@@ -42,6 +42,6 @@ Soy estudiante de ingeniería apasionado por el desarrollo web. Actualmente enfo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="SQL Server" title="SQL Server"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" title="Bash"/>
+<img src="https://skillicons.dev/icons?i=bash" height="50" title="Bash"/>
 
 </div>
