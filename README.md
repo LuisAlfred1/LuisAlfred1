@@ -55,5 +55,9 @@ Soy estudiante de ingeniería apasionado por el desarrollo web. Actualmente enfo
 <img src="https://skillicons.dev/icons?i=bash" height="50" title="Bash"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="50" alt="Insomnia" title="Insomnia"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" title="Postman"/>
 
 </div>
