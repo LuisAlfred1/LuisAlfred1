@@ -46,5 +46,7 @@ Soy estudiante de ingeniería apasionado por el desarrollo web. Actualmente enfo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=bash" height="50" title="Bash"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker"/>
 
 </div>
