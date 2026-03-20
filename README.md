@@ -1,7 +1,7 @@
 
 # 👋🏼 Hola mundo! 
 
-Soy estudiante de ingeniería apasionado por la tecnología. Actualmente enfocado en construir soluciones modernas con React y fortalecer mis bases técnicas bajo una mentalidad de mejora constante.
+Soy estudiante de ingeniería apasionado por la tecnología. Actualmente estoy enfocandome en construir aplicaciones web con React y aprendiendo a utilizar Laravel, para fortalecer mis bases técnicas bajo una mentalidad de mejora constante.
 
 ## ✍🏽 Sobre mi 
 🎓 Estudiante de Ingeniería en Sistemas en la Universidad San Pablo de Guatemala
