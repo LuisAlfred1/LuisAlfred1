@@ -1,5 +1,5 @@
 
-# 👋🏼 Hola mundo! 
+# Hola mundo!! 
 
 Soy estudiante de ingeniería apasionado por la tecnología. Actualmente estoy enfocandome en construir aplicaciones web con React y aprendiendo a utilizar Laravel, para fortalecer mis bases técnicas bajo una mentalidad de mejora constante.
 
@@ -7,7 +7,7 @@ Soy estudiante de ingeniería apasionado por la tecnología. Actualmente estoy e
 🎓 Estudiante de Ingeniería en Sistemas en la Universidad San Pablo de Guatemala
 
 👨🏽‍💻 Apasionado por la tecnología y el desarrollo web.
-## ⭐ GitHub Stats
+## GitHub Stats
 <div align="center" style="display:flex; justify-content:center; gap:20px;">
 
   <img height="180" src="https://streak-stats.demolab.com?user=LuisAlfred1&theme=github-dark" />
