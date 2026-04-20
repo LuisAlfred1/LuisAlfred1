@@ -32,7 +32,7 @@ Soy estudiante de ingeniería apasionado por la tecnología. Actualmente estoy e
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel" title="laravel"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="50" alt="astro" title="astro"/>
+<img src="https://skillicons.dev/icons?i=astro" height="50" title="astro"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS"/>
 &nbsp;&nbsp;&nbsp;
