@@ -1,12 +1,8 @@
 
 # Hola mundo!! 
 
-Soy un entusiasta de la tecnología y estudiante de Ingeniería en Sistemas en la Universidad San Pablo de Guatemala. Me especializo en el desarrollo web
+👋🏼 Soy un entusiasta de la tecnología y estudiante de Ingeniería en Sistemas en la Universidad San Pablo de Guatemala. Me especializo en el desarrollo web
 
-## ✍🏽 Sobre mi 
-🎓 Estudiante de Ingeniería en Sistemas en la Universidad San Pablo de Guatemala
-
-👨🏽‍💻 Apasionado por la tecnología y el desarrollo web.
 ## GitHub Stats
 <div align="center" style="display:flex; justify-content:center; gap:20px;">
 
