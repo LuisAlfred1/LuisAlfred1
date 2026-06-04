@@ -8,8 +8,6 @@
 
   <img height="180" src="https://streak-stats.demolab.com?user=LuisAlfred1&theme=github-dark" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlfred1&layout=compact" />
-
 </div>
 
 ## 🛠️ Tecnologías y Herramientas
