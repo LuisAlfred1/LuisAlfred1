@@ -1,7 +1,7 @@
 
 # Hola mundo!! 
 
-Soy Estudiante de Ingeniería en Sistemas en la Universidad San Pablo de Guatemala.
+Estudiante de Ingeniería en Sistemas en la Universidad San Pablo de Guatemala.
 
 ## GitHub Stats
 <div align="center" style="display:flex; justify-content:center; gap:20px;">
